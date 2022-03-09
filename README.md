@@ -2,11 +2,9 @@
 
 ##Deployed Site:
 
-*https://reising.dev/WER_Coding_Bootcamp/Week_1/Homework2/Assets/index.html
+*https://github.com/wreising/Week_1-Homework_2
 
-*https://github.com/wreising/reising.dev/tree/main/html/WER_Coding_Bootcamp/Week_1/Homework2/Assets
-
-
+*https://wreising.github.io/Week_1-Homework_2/contact.html
 
 From Homework2 README.md
 ______
